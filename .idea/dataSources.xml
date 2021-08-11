@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jupiter@laiproject-iunstance.cukcn6j4u6xx.us-west-1.rds.amazonaws.com" uuid="3f5fbb7d-96b5-48f7-b95d-29fae4197fe7">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://laiproject-iunstance.cukcn6j4u6xx.us-west-1.rds.amazonaws.com:3306/jupiter</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="jupiter mysql" uuid="f006df7e-50cb-4f19-a73c-8cbbe5ee6328">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://laiproject-iunstance.cukcn6j4u6xx.us-west-1.rds.amazonaws.com:3306/jupiter</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
